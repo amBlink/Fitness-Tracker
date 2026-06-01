@@ -1,2 +1,3 @@
-# Fitness-Tracker
-Developed a fitness tracking platform featuring workout logging, activity monitoring, goal setting, progress analytics, and a user-friendly interface for managing personal fitness journeys.
+## Data Science Project Template
+
+You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
